@@ -7,6 +7,10 @@
     <groupId>com.ych</groupId>
     <artifactId>pattern-and-algorithm-problem</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>pattern</module>
+        <module>algorithmproblem</module>
+    </modules>
 
     <packaging>pom</packaging>
 
