@@ -9,7 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>pattern</module>
-        <module>algorithmproblem</module>
+        <module>algorithm-problem</module>
+        <module>jdk8</module>
     </modules>
 
     <packaging>pom</packaging>
