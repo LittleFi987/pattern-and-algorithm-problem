@@ -12,6 +12,7 @@
         <module>algorithm-problem</module>
         <module>jdk8</module>
         <module>spring-demo</module>
+        <module>kotlin-study</module>
     </modules>
 
     <packaging>pom</packaging>
