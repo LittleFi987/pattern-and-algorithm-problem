@@ -1,0 +1,17 @@
+/**
+ * Created by chenhao.ye on 15/01/2018.
+ */
+[
+  {
+    "name": "robot",
+    "className": "ioc.Robot"
+  },
+  {
+    "name": "hand",
+    "className": "ioc.Hand"
+  },
+  {
+    "name": "mouth",
+    "className": "ioc.Mouth"
+  }
+]
