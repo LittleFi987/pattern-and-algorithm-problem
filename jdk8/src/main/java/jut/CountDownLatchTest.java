@@ -14,7 +14,7 @@ public class CountDownLatchTest {
         new Thread(() -> {
             System.out.println("son Thread: " + Thread.currentThread().getName() + "正在执行");
             try {
-                Thread.sleep(2000);
+                Thread.sleep(20000);
             } catch (InterruptedException e) {
             }
             System.out.println("son Thread: " + Thread.currentThread().getName() + "执行完毕");
@@ -24,7 +24,7 @@ public class CountDownLatchTest {
         new Thread(() -> {
             System.out.println("son Thread: " + Thread.currentThread().getName() + "正在执行");
             try {
-                Thread.sleep(3000);
+                Thread.sleep(30000);
             } catch (InterruptedException e) {
             }
             System.out.println("son Thread: " + Thread.currentThread().getName() + "执行完毕");
