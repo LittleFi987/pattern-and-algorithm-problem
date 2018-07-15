@@ -20,8 +20,6 @@ public class Stream {
         return result.stream().filter(item -> p.test(item)).collect(Collectors.toList());
     }
 
-
-
 }
 
 interface Predicate<T> {
