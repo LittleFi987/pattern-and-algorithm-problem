@@ -13,6 +13,7 @@
         <module>jdk8</module>
         <module>spring-demo</module>
         <module>kotlin-study</module>
+        <module>web-magic</module>
     </modules>
 
     <packaging>pom</packaging>
